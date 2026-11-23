@@ -14,7 +14,7 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that introduces balanced *
   * **Copper Powder Snow Bucket**: Gather and place powder snow blocks safely.
 * **Bucketable Mobs**
   * Catch, transport, and release aquatic mobs (*Cod*, *Salmon*, *Tropical Fish*, *Pufferfish*, *Axolotl*, *Tadpole*).
-  * As well as **Sulfur Cubes**.
+  * As well as *Sulfur Cubes*.
 * **Balanced Heat Limit**
   * Due to copper's lower melting point, **Copper Buckets** *CANNOT* hold *lava*-keeping the vanilla *Iron Bucket* essential for Nether portals and high-temperature tasks.
 
